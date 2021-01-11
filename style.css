@@ -1630,7 +1630,7 @@ h1 {
   padding-bottom: 10px;
 }
 
-.magicians2 {
+.magicians {
   color: white;
   font-size: 20px;
   padding-bottom: 10px;
@@ -1743,8 +1743,4 @@ body img{
 #back {
   top: 20px;
   background-color: cyan;
-}
-
-.magicians {
- color: red; 
 }
